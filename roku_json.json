@@ -1,0 +1,80 @@
+{
+  "providerName": "THE REPO",
+  "lastUpdated": "2020-06-01T00:00:00Z",
+  "language": "en",
+  "categories": [
+    {
+      "name": "Aerial Surveys",
+      "itemIds": ["video1", "video2"]
+    },
+    {
+      "name": "Construction Projects",
+      "itemIds": ["video3"]
+    }
+  ],
+  "series": [],
+  "movies": [],
+  "shortFormVideos": [
+    {
+      "id": "video1",
+      "title": "Central Wisconsin Aerial Survey",
+      "content": {
+        "dateAdded": "2020-06-01T00:00:00Z",
+        "videos": [
+          {
+            "url": "https://example.com/videos/central-wisconsin-aerial-survey.mp4",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "thumbnail": "https://example.com/thumbnails/aerial-survey.jpg",
+      "shortDescription": "An in-depth aerial survey of Central Wisconsin.",
+      "longDescription": "Experience Central Wisconsin like never before with our detailed aerial survey.",
+      "releaseDate": "2020-06-01",
+      "categories": ["Aerial Surveys"],
+      "tags": ["Aerial", "Wisconsin", "Survey"]
+    },
+    {
+      "id": "video2",
+      "title": "River Valley Overview",
+      "content": {
+        "dateAdded": "2020-06-01T00:00:00Z",
+        "videos": [
+          {
+            "url": "https://example.com/videos/river-valley-overview.mp4",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "thumbnail": "https://example.com/thumbnails/river-valley.jpg",
+      "shortDescription": "A scenic overview of the river valley.",
+      "longDescription": "Fly over the river valley and take in the stunning views from above.",
+      "releaseDate": "2020-06-01",
+      "categories": ["Aerial Surveys"],
+      "tags": ["River", "Valley", "Overview"]
+    },
+    {
+      "id": "video3",
+      "title": "New Construction Project",
+      "content": {
+        "dateAdded": "2020-06-01T00:00:00Z",
+        "videos": [
+          {
+            "url": "https://example.com/videos/new-construction-project.mp4",
+            "quality": "FHD",
+            "videoType": "MP4"
+          }
+        ]
+      },
+      "thumbnail": "https://example.com/thumbnails/construction-project.jpg",
+      "shortDescription": "An overview of our latest construction project.",
+      "longDescription": "Watch the progress of our new construction project from start to finish.",
+      "releaseDate": "2020-06-01",
+      "categories": ["Construction Projects"],
+      "tags": ["Construction", "Project", "Build"]
+    }
+  ],
+  "playlists": []
+}
